@@ -13,7 +13,7 @@
       //使用帮助
       public function index()
       {
-        $reply = Robot::reply('你的appkey','你的','北京的天气');
+        $reply = Robot::reply('你的appkey','你的秘钥','发送的消息');
       }
   }
 ```
