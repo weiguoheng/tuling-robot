@@ -13,7 +13,7 @@
       //使用帮助
       public function index()
       {
-        $reply = Robot::reply('889ec96903fc4948845497850c3ede23','2ed3d583c834e94f1','北京的天气');
+        $reply = Robot::reply('你的appkey','你的','北京的天气');
       }
   }
 ```
